@@ -33,4 +33,4 @@
 	<li  aria-level="1"> Item 5 </li>
 </ul>
 
-<p><strong>THIS TEXT IS BOLD</strong><strong><br /></strong><em> THIS TEXT IS ITALIC </em></p>
+<p><strong>THIS TEXT IS BOLD</strong><br /><em> THIS TEXT IS ITALIC </em></p>
